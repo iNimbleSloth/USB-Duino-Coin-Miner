@@ -7,7 +7,7 @@ This project is a USB Duino Coin Miner that required a host computer to run the 
 In the project you will find KiCAD files for the schematic and PCB layout.
 
 
-Main	(Main Repository)
+Main	(Main Repository)<br>
 	|
 	Duino_Coin_Miner_SMD_v1.1	(KiCAD6 project folder for surfacemount ATmega miner)
 	|
