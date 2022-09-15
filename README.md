@@ -8,11 +8,11 @@ In the project you will find KiCAD files for the schematic and PCB layout.
 
 
 Main	(Main Repository)<br>
-	|
-	Duino_Coin_Miner_SMD_v1.1	(KiCAD6 project folder for surfacemount ATmega miner)
-	|
-	Duino_Coin_Miner_THT_V1.1	(KiCAD6 project folder for though-hole ATmega miner)
-	|
-	License
-	|
+	|<br>
+	Duino_Coin_Miner_SMD_v1.1	(KiCAD6 project folder for surfacemount ATmega miner)<br>
+	|<br>
+	Duino_Coin_Miner_THT_V1.1	(KiCAD6 project folder for though-hole ATmega miner)<br>
+	|<br>
+	License<br>
+	|<br>
 	README.md
