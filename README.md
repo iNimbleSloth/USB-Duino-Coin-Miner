@@ -18,7 +18,7 @@ Main	(Main Repository)<br>
 	README.md
 <br>
 <br>
-Looking for a quick and easy solution? You can purchase the PCBs directly from PCBWay.com without the need to install KiCAD.
-https://www.pcbway.com/project/shareproject/USB_Duino_Coin_Miner_SMD_26c9c008.html
-https://www.pcbway.com/project/shareproject/USB_Duino_Coin_Miner_THT_20c1372f.html
-Get 5$ credit when signing up at PCBWay - https://www.pcbway.com/setinvite.aspx?inviteid=417998
+Looking for a quick and easy solution? You can purchase the PCBs directly from PCBWay.com without the need to install KiCAD.<br>
+https://www.pcbway.com/project/shareproject/USB_Duino_Coin_Miner_SMD_26c9c008.html<br>
+https://www.pcbway.com/project/shareproject/USB_Duino_Coin_Miner_THT_20c1372f.html<br>
+Get 5$ credit when signing up at PCBWay - https://www.pcbway.com/setinvite.aspx?inviteid=417998<br>
